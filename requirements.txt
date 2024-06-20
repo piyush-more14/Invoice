@@ -1,0 +1,14 @@
+numpy 
+pandas 
+scikit-learn 
+tensorflow 
+keras 
+torch 
+torchvision 
+transformers 
+pytesseract 
+opencv-python
+onnx 
+onnxruntime 
+onnxruntime-tools
+PyQt5
